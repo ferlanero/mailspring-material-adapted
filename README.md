@@ -7,7 +7,7 @@ A Material Adapted theme for Mailspring based on [opes](https://github.com/opes/
 
 ![](preview_3.png)
 
-![](preview_3.png)
+![](preview_4.png)
 
 ## Installation
 1. Download the [Mailspring](https://getmailspring.com/) email client.
