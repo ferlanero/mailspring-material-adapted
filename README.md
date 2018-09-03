@@ -7,6 +7,8 @@ A Material Adapted theme for Mailspring based on [opes](https://github.com/opes/
 
 ![](preview_3.png)
 
+![](preview_3.png)
+
 ## Installation
 1. Download the [Mailspring](https://getmailspring.com/) email client.
 2. Download the [latest release](https://github.com/ferlanero/mailspring-material-adapted) of Material Adapted.
