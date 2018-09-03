@@ -1,7 +1,11 @@
 # Material Adapted for Mailspring email client
 A Material Adapted theme for Mailspring based on [opes](https://github.com/opes/mailspring-material) work. Inspired by [equinusocio's](https://github.com/equinusocio) Material Theme and forked from [jackiehluo's](https://github.com/jackiehluo/n1-material) n1-material.
 
-![](preview.png)
+![](preview_1.png)
+
+![](preview_2.png)
+
+![](preview_3.png)
 
 ## Installation
 1. Download the [Mailspring](https://getmailspring.com/) email client.
