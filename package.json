@@ -1,0 +1,13 @@
+{
+  "name": "material-adapted",
+  "title": "Material Adapted",
+  "displayName": "Material Adapted",
+  "theme": "ui",
+  "version": "0.8.0",
+  "description": "Based on @opes work. Inspired by @equinusocio's Material Theme and forked from @jackiehluo's n1-material.",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
